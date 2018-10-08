@@ -10,7 +10,7 @@ The first 3 columns are fixed , the first column define the local (pc) file Path
 
 the fourth and next columns are variable and define the metadata associated to content type. The columns must have the internal names of columns in SharePoint Document Library and their values must be compatible with columns.
 
-For Metadata Columns the values must be in format "<xxxx>|<yyyy>|<zzzz>",
+For Metadata Columns the values must be in format "termgroup|termset|term",
 
 For lookup Columns the values must be the value of reference column defined on Lookup Column. 
 
@@ -18,15 +18,9 @@ For Date Columns the values must be in format "pt-PT"  I will check if the curr
 
 We must have one file for each content type that we want upload.
 
-Sample CSV file.
-
-
-
 You must change the script for your needs, use as a reference .
 
-The code is here :
-
-https://github.com/joaojmendes/BulkUploadFilesToSharePoint
+ 
 
 
 
