@@ -22,12 +22,6 @@ Sample CSV file.
 
 
 
-My PowerShell script Print Screens, 
-
-
-
-
-
 You must change the script for your needs, use as a reference .
 
 The code is here :
